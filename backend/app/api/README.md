@@ -1,0 +1,15 @@
+backend/app/core/README.md
+backend/app/services/README.md
+backend/app/models/README.md
+backend/app/utils/README.md
+backend/tests/README.md
+frontend/public/README.md
+frontend/src/assets/README.md
+frontend/src/components/README.md
+frontend/src/pages/README.md
+frontend/src/services/README.md
+frontend/src/styles/README.md
+cloud/README.md
+database/README.md
+docs/README.md
+.github/workflows/README.md
